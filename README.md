@@ -23,14 +23,14 @@ Follow these steps to run the application locally:
    ```bash
    git clone https://github.com/piyushjha5/reactMovieSearchWebsite.git
 2. **Navigate to the project directory:
-bash
-cd reactMovieSearchWebsite
+   ```bash
+   cd reactMovieSearchWebsite
 3. **Install dependencies:
-bash
-npm install
+   ```bash
+   npm install
 4. **Run the development server:
-bash
-npm start
+   ```bash
+   npm start
 Open your browser and navigate to http://localhost:3000 to use the app.
 
 ##How It Works
