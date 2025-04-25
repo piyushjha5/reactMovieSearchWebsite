@@ -33,23 +33,23 @@ Follow these steps to run the application locally:
    npm start
 Open your browser and navigate to http://localhost:3000 to use the app.
 
-##How It Works
+## How It Works
 -Enter a movie title in the search bar.
 -The app fetches movie data from the API and dynamically displays the results.
 -Click on a movie to view additional details.
 
-##Purpose of the Project
+## Purpose of the Project
 This project was created as part of personal learning and skill development in React.js.. It serves as a practical implementation of core React concepts, including:
 -Component-based architecture
 -State management with React hooks
 -Fetching and handling API responses
 
-##Future Enhancements
+## Future Enhancements
 -Add advanced search filters (e.g., by genre, release year).
 -Improve error handling for API requests.
 -Enhance UI/UX for a more intuitive user experience.
 -Implement pagination for search results.
 
-##Acknowledgments
+## Acknowledgments
 -Inspired by various React.js tutorials and documentation.
 -Uses movie data provided by The Movie Database API.
